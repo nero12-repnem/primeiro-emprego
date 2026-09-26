@@ -40,4 +40,4 @@ README.md
 - Criar fluxo de publicação e candidatura
 
 ## Autor
-Enzo
+Enzo da Rosa Severino
